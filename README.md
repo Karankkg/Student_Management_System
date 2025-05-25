@@ -21,7 +21,7 @@ A complete *Student Management System* built with *Java Swing GUI*. This applica
 
 | Dashboard | Add Student | View Records |
 |-----------|-------------|---------------|
-| ![dashboard](https://your-image-link.png) | ![add](https://your-image-link.png) | ![view](https://your-image-link.png) |
+| ![dashboard](Screenshot/png1.png) | ![add](Screenshot/png2.png) | ![view](Screenshot/png3.png) |
 
 ---
 
