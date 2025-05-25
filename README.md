@@ -56,6 +56,6 @@ A complete *Student Management System* built with *Java Swing GUI*. This applica
 
 - [**Deepanshu**](https://github.com/chikujaurasiya) – Project Author & Documentation Writer
 - [**Karan**](https://github.com/Karankkg) – Game Logic Developer
-- [**Govind**](https://github.com/) – UI/UX Designer
+- [**Govind**](https://github.com/Govind75418) – UI/UX Designer
 
 ***
