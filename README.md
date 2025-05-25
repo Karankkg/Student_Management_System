@@ -1,9 +1,7 @@
 # 🎓 Student Management System - Java GUI
 
 A complete *Student Management System* built with *Java Swing GUI*. This application allows administrators to manage student records efficiently, with full CRUD functionality and optional MySQL database integration.
-
-![Java GUI Screenshot](![App Screenshot](Screenshot/png1.png)
-)
+(![App Screenshot](Screenshot/png1.png)
 
 ---
 
